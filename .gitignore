@@ -61,3 +61,7 @@ ScaffoldingReadMe.txt
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# NuGet
+
+.nupkgs/
