@@ -1,9 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <PackageId>Maileroo.DotNet.SDK</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Maileroo</Authors>
+        <Company>Maileroo</Company>
+        <Description>.NET SDK for Maileroo email delivery</Description>
+        <PackageTags>SMTP Email Maileroo</PackageTags>
+        <RepositoryUrl>https://github.com/maileroo/maileroo-dotnet-sdk</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/maileroo/maileroo-dotnet-sdk</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
